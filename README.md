@@ -1,0 +1,2 @@
+# RunScriptBashScriptToPrintObjects
+RunScriptBashScriptToPrintObjects
